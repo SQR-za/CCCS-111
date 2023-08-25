@@ -30,3 +30,26 @@ int main()
 /* a variable name in C is any valid identifier.
 which is a series of characters consisting of letters, digits and undercores (_)
 that does not begin with a digit [note: in C a and A are different identifiers.]*/
+
+/*تلخيص لكل العمليات الحسابية من شابتر 65
+Addition (+) جمع
+Subtraction (-) طرج
+Multiplication (*) ضرب
+Division (/) قسمة
+Remainder (%) الباقي يعني انه مثلا (x % y) يعطيك الباقي بعد قسمه x على y
+Example: 7%4 = 3 , 17%5 = 2
+*/
+
+/*fig 2.10 يشرح قواعد العمليات وهي نفسها مثل الرياضيات
+() parencheses تبدأ بفك الاقواس اولا
+* / % بعد الاقواس لو في اكثر من غمليه منها بتكون من اليسار لليمين
+- + هذي الثالثه في الترتيب
+= اخر شي في الترتيب المساواة*/
+
+/*fig 2.12 عمليات العلاقات
+> اكبر من is greater than
+< اصغر من is less than
+>= اكبر من او يساوي is greater than or equal to
+<=اصغر من او يساوي is less than or equal to
+== يساوي equal to
+!= لا يساوي is not equal to*/
